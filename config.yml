@@ -5,3 +5,11 @@
 vagrant_hostname: commerce.dev
 vagrant_machine_name: commerce
 vagrant_ip: 0.0.0.0
+
+drupal_composer_install_dir: "/var/www/drupalvm"
+
+drupal_build_composer_project: false
+drupal_install_site: false
+
+php_packages_extra:
+  - "php{{ php_version }}-bcmath"

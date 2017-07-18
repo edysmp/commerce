@@ -2,7 +2,7 @@
 ENV['DRUPALVM_PROJECT_ROOT'] = "#{__dir__}"
 
 # The relative path from the project root to the VM config directory.
-ENV['DRUPALVM_CONFIG_DIR'] = "vm"
+ENV['DRUPALVM_CONFIG_DIR'] = "."
 
 # Always ask for the Vault password.
 ENV['DRUPALVM_ANSIBLE_ARGS'] = '--ask-vault-pass'
