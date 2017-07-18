@@ -1,0 +1,20 @@
+uuid: b974d5f3-18a9-41a7-935f-3f63892cafb2
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_link_content
+_core:
+  default_config_hash: YXVRj344EMbn5xOGWJIc5hkIwHbXkvExvQNR3p5W7MI
+id: menu_link_content.menu_link_content.changed
+field_name: changed
+entity_type: menu_link_content
+bundle: menu_link_content
+label: Changed
+description: 'The time that the menu link was last edited.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

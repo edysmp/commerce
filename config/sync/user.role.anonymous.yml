@@ -1,0 +1,18 @@
+uuid: 8550beb4-8960-441f-87d5-8cf42e762a64
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GguTc_PIwIPxODCp6pcRV4-TpJVmz0fjTKonDvPUZT8
+id: anonymous
+label: 'Anonymous user'
+weight: 0
+is_admin: false
+permissions:
+  - 'access cart'
+  - 'access checkout'
+  - 'access comments'
+  - 'access content'
+  - 'access site-wide contact form'
+  - 'post comments'
+  - 'search content'

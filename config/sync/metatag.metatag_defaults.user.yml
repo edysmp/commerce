@@ -1,0 +1,11 @@
+uuid: 0d49f209-d300-44c1-860a-442ce4d20542
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VUgp70YXI1wDlBaI5BgtZf9MUYQ1cwvRd7zpEmMIVpo
+id: user
+label: User
+tags:
+  title: '[user:name] | [site:name]'
+  description: '[site:name]'

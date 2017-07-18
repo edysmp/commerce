@@ -1,0 +1,24 @@
+uuid: 877d548a-0ee8-48da-b9e0-575b07e10312
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.cta_homepage
+_core:
+  default_config_hash: uhJ61MdiWt7m92aLrhsbVoHqiJuXarETBpcqSoMfVNg
+id: node.cta_homepage.promote
+field_name: promote
+entity_type: node
+bundle: cta_homepage
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

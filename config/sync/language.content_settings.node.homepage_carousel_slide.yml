@@ -1,0 +1,13 @@
+uuid: ccf763f3-34be-46b1-931a-1596993ca685
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.homepage_carousel_slide
+_core:
+  default_config_hash: P9HZFbqKrbldDOO2mcOWUpg-3ZQfuq1rPB6hcmBwbYs
+id: node.homepage_carousel_slide
+target_entity_type_id: node
+target_bundle: homepage_carousel_slide
+default_langcode: site_default
+language_alterable: false

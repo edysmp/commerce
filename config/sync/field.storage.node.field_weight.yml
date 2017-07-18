@@ -1,0 +1,22 @@
+uuid: db56a486-74d7-402d-bb2a-b8bdf56e9995
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: kjrexrhF9LXJaBT1IvI8NjfZiTrWRyd_k_z1s-mNhh8
+id: node.field_weight
+field_name: field_weight
+entity_type: node
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

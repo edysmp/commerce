@@ -1,0 +1,10 @@
+uuid: 83471688-44bd-4655-a398-6f4e16b814d7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8FVz29ugutt8ej8UbVc25yqloTtgECfBAE7KPqrY2-M
+id: footer-bottom-navigation
+label: 'Footer Bottom Navigation'
+description: ''
+locked: false

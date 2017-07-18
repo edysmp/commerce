@@ -1,0 +1,20 @@
+uuid: dae896d9-937b-4836-9620-5d170fe7fc2e
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+_core:
+  default_config_hash: MZD72VmKXJ6wRr2i-eH3Fr7Pxl7_3YxxwWxTtyLgApQ
+name: 'Blog Post'
+type: blog_post
+description: 'Blog posts that appear under the Blog section of the site and associated views.'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

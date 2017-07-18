@@ -1,0 +1,22 @@
+uuid: c51ba002-928f-4e6f-863e-31d365ae058b
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - orange_starter
+_core:
+  default_config_hash: p3O2GQVsKdOq_iu1E1F7qRhKbj_GEs1GY0huHyRGNg0
+id: searchform
+theme: orange_starter
+region: site_search
+weight: 0
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Site Search'
+  provider: search
+  label_display: '0'
+visibility: {  }

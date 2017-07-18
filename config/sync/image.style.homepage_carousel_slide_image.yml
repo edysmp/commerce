@@ -1,0 +1,16 @@
+uuid: b0bfacd4-847b-4c4a-a5a5-4531e2227977
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WxwoWk7Ck6NjCyml82gbEHYLjfcQYutGOR_BnZfj_Uw
+name: homepage_carousel_slide_image
+label: 'Homepage Carousel Slide Image'
+effects:
+  d3baba85-04ee-4671-a14c-10a79f8d687b:
+    uuid: d3baba85-04ee-4671-a14c-10a79f8d687b
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 1600
+      height: 565

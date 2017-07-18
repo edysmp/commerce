@@ -1,0 +1,24 @@
+uuid: fa976c60-5d5d-4a93-be31-74c07f9241ec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VioBJYSA5CJZFdy4JjhJnhYzaHFWaJ2SkhfAlUG_3GY
+id: authenticated
+label: 'Authenticated user'
+weight: 1
+is_admin: false
+permissions:
+  - 'access cart'
+  - 'access checkout'
+  - 'access comments'
+  - 'access content'
+  - 'access shortcuts'
+  - 'access site-wide contact form'
+  - 'post comments'
+  - 'search content'
+  - 'skip comment approval'
+  - 'use text format html'
+  - userprotect.account.edit
+  - userprotect.mail.edit
+  - userprotect.pass.edit

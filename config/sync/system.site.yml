@@ -1,0 +1,15 @@
+name: 'My Store'
+mail: admin@example.com
+slogan: ''
+page:
+  403: /node/3
+  404: /node/2
+  front: /homepage
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: WNfZVr3xDnlO6G1bmXLYsMURbWgFKDDLgyDnAd7faug
+mail_notification: ''
+uuid: a0371f7e-20ac-4345-8e08-2c62c6c8cd63

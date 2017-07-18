@@ -1,0 +1,13 @@
+uuid: 9d70f0c8-9945-4e26-a813-b5e6cb48867a
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: 84boPqlJ-geOLUwN5V2dvVyhd2TwpmHgJzy447BpaCg
+id: node_promote_action
+label: 'Promote content to front page'
+type: node
+plugin: node_promote_action
+configuration: {  }

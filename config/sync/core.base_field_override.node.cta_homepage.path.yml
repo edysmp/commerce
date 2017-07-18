@@ -1,0 +1,22 @@
+uuid: be338948-fd62-4cba-9428-f7ded61b7480
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.cta_homepage
+  module:
+    - path
+_core:
+  default_config_hash: 2WmEe6YZueHOPdFfZG3Y4yXfRNAe7c8s2Q81gzSbdJU
+id: node.cta_homepage.path
+field_name: path
+entity_type: node
+bundle: cta_homepage
+label: 'URL alias'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

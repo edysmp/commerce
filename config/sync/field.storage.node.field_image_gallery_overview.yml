@@ -1,0 +1,21 @@
+uuid: c1b8ce71-0b1e-4920-a023-e037862a332d
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+_core:
+  default_config_hash: _uflEX3DTnXHbhsc2gB-4URB_aVzQGvcWrdHzNrBuU4
+id: node.field_image_gallery_overview
+field_name: field_image_gallery_overview
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false
